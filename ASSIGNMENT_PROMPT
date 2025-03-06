@@ -1,0 +1,43 @@
+# Assignment Criteria & Prompt
+
+This document provides the original assignment criteria and prompts for the Data Science Methodology exercise. It serves as a reference for understanding the structure and expectations of the project.
+
+---
+
+## **Solving Real-World Problems Using Data Science**
+
+### **Prompt 1: Topic Selection**
+**Which topic did you choose to apply the data science methodology to?** *(2 points)*
+
+---
+
+### **Prompt 2: Business Understanding**
+You will play the role of both the **client** and the **data scientist**.
+
+Using the topic you selected, complete the **Business Understanding** stage by coming up with a problem you would like to solve. Then, phrase it as a question that you will use data to answer. *(3 points)*
+
+You are required to:
+- **Describe the problem** related to the topic you selected.
+- **Phrase the problem as a question** that can be answered using data.
+
+📌 **Example:**
+For a food recipes dataset, a possible question would be: *"Can we automatically determine the cuisine of a given dish based on its ingredients?"*
+
+---
+
+### **Prompt 3: Data Science Methodology Application**
+For the problem described in the **Business Understanding** stage, briefly explain how you would complete each of the following stages to ultimately answer the question you came up with. *(5 points)*
+
+#### **Required Stages:**
+1. **Analytic Approach** – Define the analytical approach and what type of model is needed.
+2. **Data Requirements** – Identify the data needed, including content, format, and sources.
+3. **Data Collection** – Describe how and from where data will be collected.
+4. **Data Understanding and Preparation** – Explain steps for data cleaning, feature engineering, and exploratory data analysis (EDA).
+5. **Modeling and Evaluation** – Detail the machine learning models used and how they will be evaluated.
+
+📌 **Reference:** You can refer to the labs for examples on describing these stages.
+
+---
+
+This document provides context for the decisions and methodology applied in the `Solving-real-world-problems-using-Data-Science` project.
+
