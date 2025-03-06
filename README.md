@@ -1,4 +1,4 @@
-# Solving-real-world-problems-using-Data-Science---Methodology-Exercise---Refer to ASSIGNMENT_PROMPT.md for the original prompt and criteria.
+# Solving-real-world-problems-using-Data-Science---Methodology-Exercise
 
 ## **Project: Credit Card Fraud Detection**
 
@@ -106,3 +106,4 @@ By following this structured **data science methodology**, we aim to build a fra
 
 📌 **Feel free to contribute or reach out for collaboration!** 🚀
 
+Refer to ASSIGNMENT_PROMPT.md for the original prompt and criteria.
